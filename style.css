@@ -1,6 +1,13 @@
 #pa{
-background-color: azure;
+background-color:  beige;
 color: black;
+text-align: center;
+border-radius: 20px;
+border: 2px solid;
+border-right-color: rgb(255, 94, 0);
+border-left-color: rgb(255, 94, 0);
+border-top-color: rgb(231, 65, 198);
+border-bottom-color:rgb(231, 65, 198);
 }
 .mynav ul li{
     display: inline;
