@@ -2,3 +2,15 @@
 background-color: azure;
 color: black;
 }
+#myfooter{
+    position: fixed;
+    bottom: 0;
+    border: 2px brown;
+    border-style: groove;
+    background-color: bisque;
+    color: blueviolet;
+    border-radius: 5px;
+    margin-left: 30%;
+    width: 30%;
+    text-align: center;
+}
