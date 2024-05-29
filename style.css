@@ -14,3 +14,15 @@ color: black;
     color: blueviolet;
 
 }
+#myfooter{
+    border: 2px solid red;  
+    border-radius: 10px;
+    background-color: beige;
+    color: blueviolet;
+    width: 30%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    margin-left: 30%;
+
+}
