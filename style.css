@@ -2,3 +2,14 @@
 background-color: azure;
 color: black;
 }
+.mynav ul li{
+    display: inline;
+    padding-left: 10%;
+    
+}
+.mynav{
+    border: 2px solid red;  
+    border-radius: 10px;
+    background-color: beige;
+    color: blueviolet;
+}
